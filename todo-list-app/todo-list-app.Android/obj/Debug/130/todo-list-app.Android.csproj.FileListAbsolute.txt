@@ -639,3 +639,5 @@ C:\Users\jetz1\repos\initial-mobile-app\todo-list-app\todo-list-app.Android\obj\
 C:\Users\jetz1\repos\initial-mobile-app\todo-list-app\todo-list-app.Android\obj\Debug\130\stamp\_GenerateJavaStubs.stamp
 C:\Users\jetz1\repos\initial-mobile-app\todo-list-app\todo-list-app.Android\obj\Debug\130\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\jetz1\repos\initial-mobile-app\todo-list-app\todo-list-app.Android\obj\Debug\130\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\jetz1\repos\initial-mobile-app\todo-list-app\todo-list-app.Android\obj\Debug\130\res\drawable\house.png
+C:\Users\jetz1\repos\initial-mobile-app\todo-list-app\todo-list-app.Android\obj\Debug\130\res\drawable\plus.png
