@@ -25,11 +25,11 @@ androidgeneratejnimarshalmethods=false
 os=windows_nt
 androidincludedebugsymbols=true
 androidpackagenamingpolicy=lowercasecrc64
-_nugetassetstimestamp=638285662793241476
+_nugetassetstimestamp=638285665733172419
 typemapkind=strings-asm
 androidsupportedabis=arm64-v8a
 armeabi-v7a
 x86
 x86_64
 androidmanifestplaceholders=
-projectfullpath=c:\users\jetz1\repos\initial-mobile-app\todo-list-app\todo-list-app.android\todo-list-app.android.csproj
+projectfullpath=c:\users\jetz1\repos\initial-mobile-app\todo-list-app\todo-list-app.android\todo_list_app.android.csproj

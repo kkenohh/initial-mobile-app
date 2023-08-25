@@ -3414,9 +3414,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jetz1\\repos\\initial-mobile-app\\todo-list-app\\todo-list-app.Android\\todo-list-app.Android.csproj",
+      "projectUniqueName": "C:\\Users\\jetz1\\repos\\initial-mobile-app\\todo-list-app\\todo-list-app.Android\\todo_list_app.Android.csproj",
       "projectName": "todo-list-app.Android",
-      "projectPath": "C:\\Users\\jetz1\\repos\\initial-mobile-app\\todo-list-app\\todo-list-app.Android\\todo-list-app.Android.csproj",
+      "projectPath": "C:\\Users\\jetz1\\repos\\initial-mobile-app\\todo-list-app\\todo-list-app.Android\\todo_list_app.Android.csproj",
       "packagesPath": "C:\\Users\\jetz1\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\jetz1\\repos\\initial-mobile-app\\todo-list-app\\todo-list-app.Android\\obj\\",
       "projectStyle": "PackageReference",

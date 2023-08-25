@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AxV/P4t6sfaZwhOt+DswDJU7B4Bjg3Bs7d83dlZsBMUz8xCEUMXGCvMFf/qdEMiluVIFGSlts7gFfBNXBqGDPw==",
+  "dgSpecHash": "eRmOSVPI+1Af8r1rQmAgt8xat91Gepq4tv89YJO2fTvy2fuMuxp60aPpiPLb5GU7oibJOiDSTxFmuP8Hwt3I+w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jetz1\\repos\\initial-mobile-app\\todo-list-app\\todo-list-app.Android\\todo-list-app.Android.csproj",
+  "projectFilePath": "C:\\Users\\jetz1\\repos\\initial-mobile-app\\todo-list-app\\todo-list-app.Android\\todo_list_app.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jetz1\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\jetz1\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",
