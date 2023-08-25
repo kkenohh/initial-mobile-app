@@ -5,8 +5,6 @@ C:\Users\jetz1\repos\initial-mobile-app\todo-list-app\todo-list-app.Android\bin\
 C:\Users\jetz1\repos\initial-mobile-app\todo-list-app\todo-list-app.Android\bin\Debug\com.companyname.todo_list_app-Signed.aab
 C:\Users\jetz1\repos\initial-mobile-app\todo-list-app\todo-list-app.Android\bin\Debug\com.companyname.todo_list_app-Signed.apk
 C:\Users\jetz1\repos\initial-mobile-app\todo-list-app\todo-list-app.Android\bin\Debug\com.companyname.todo_list_app-Signed.apk.idsig
-C:\Users\jetz1\repos\initial-mobile-app\todo-list-app\todo-list-app.Android\bin\Debug\todo-list-app.dll
-C:\Users\jetz1\repos\initial-mobile-app\todo-list-app\todo-list-app.Android\bin\Debug\todo-list-app.pdb
 C:\Users\jetz1\repos\initial-mobile-app\todo-list-app\todo-list-app.Android\obj\Debug\130\MonoAndroid,Version=v13.0.AssemblyAttributes.cs
 C:\Users\jetz1\repos\initial-mobile-app\todo-list-app\todo-list-app.Android\obj\Debug\130\build.props
 C:\Users\jetz1\repos\initial-mobile-app\todo-list-app\todo-list-app.Android\obj\Debug\130\adb.props
@@ -115,8 +113,6 @@ C:\Users\jetz1\repos\initial-mobile-app\todo-list-app\todo-list-app.Android\obj\
 C:\Users\jetz1\repos\initial-mobile-app\todo-list-app\todo-list-app.Android\obj\Debug\130\android\assets\System.Xml.pdb
 C:\Users\jetz1\repos\initial-mobile-app\todo-list-app\todo-list-app.Android\obj\Debug\130\android\assets\todo-list-app.Android.dll
 C:\Users\jetz1\repos\initial-mobile-app\todo-list-app\todo-list-app.Android\obj\Debug\130\android\assets\todo-list-app.Android.pdb
-C:\Users\jetz1\repos\initial-mobile-app\todo-list-app\todo-list-app.Android\obj\Debug\130\android\assets\todo-list-app.dll
-C:\Users\jetz1\repos\initial-mobile-app\todo-list-app\todo-list-app.Android\obj\Debug\130\android\assets\todo-list-app.pdb
 C:\Users\jetz1\repos\initial-mobile-app\todo-list-app\todo-list-app.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Activity.dll
 C:\Users\jetz1\repos\initial-mobile-app\todo-list-app\todo-list-app.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Activity.pdb
 C:\Users\jetz1\repos\initial-mobile-app\todo-list-app\todo-list-app.Android\obj\Debug\130\android\assets\Xamarin.AndroidX.Annotation.dll
@@ -641,3 +637,7 @@ C:\Users\jetz1\repos\initial-mobile-app\todo-list-app\todo-list-app.Android\obj\
 C:\Users\jetz1\repos\initial-mobile-app\todo-list-app\todo-list-app.Android\obj\Debug\130\stamp\_ResolveLibraryProjectImports.stamp
 C:\Users\jetz1\repos\initial-mobile-app\todo-list-app\todo-list-app.Android\obj\Debug\130\res\drawable\house.png
 C:\Users\jetz1\repos\initial-mobile-app\todo-list-app\todo-list-app.Android\obj\Debug\130\res\drawable\plus.png
+C:\Users\jetz1\repos\initial-mobile-app\todo-list-app\todo-list-app.Android\bin\Debug\todo_list_app.dll
+C:\Users\jetz1\repos\initial-mobile-app\todo-list-app\todo-list-app.Android\bin\Debug\todo_list_app.pdb
+C:\Users\jetz1\repos\initial-mobile-app\todo-list-app\todo-list-app.Android\obj\Debug\130\android\assets\todo_list_app.dll
+C:\Users\jetz1\repos\initial-mobile-app\todo-list-app\todo-list-app.Android\obj\Debug\130\android\assets\todo_list_app.pdb

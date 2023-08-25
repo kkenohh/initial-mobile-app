@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("todo-list-app.AppShell.xaml", "AppShell.xaml", typeof(global::todo_list_app.AppShell))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("todo_list_app.AppShell.xaml", "AppShell.xaml", typeof(global::todo_list_app.AppShell))]
 
 namespace todo_list_app {
     

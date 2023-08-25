@@ -5,7 +5,7 @@ VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todo-list-app.Android", "todo-list-app.Android\todo-list-app.Android.csproj", "{8A869A0A-BAC3-453F-9ED5-A49BF5CA9831}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todo-list-app", "todo-list-app\todo-list-app.csproj", "{0CB314B2-7231-44CC-B7C3-6CA3A3141E7F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "todo_list_app", "todo-list-app\todo_list_app.csproj", "{0CB314B2-7231-44CC-B7C3-6CA3A3141E7F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

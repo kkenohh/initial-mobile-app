@@ -1776,7 +1776,7 @@
           "buildTransitive/monoandroid50/Xamarin.Google.Guava.ListenableFuture.targets": {}
         }
       },
-      "todo-list-app/1.0.0": {
+      "todo_list_app/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -1784,10 +1784,10 @@
           "Xamarin.Forms": "5.0.0.2196"
         },
         "compile": {
-          "bin/placeholder/todo-list-app.dll": {}
+          "bin/placeholder/todo_list_app.dll": {}
         },
         "runtime": {
-          "bin/placeholder/todo-list-app.dll": {}
+          "bin/placeholder/todo_list_app.dll": {}
         }
       }
     }
@@ -3394,17 +3394,17 @@
         "xamarin.google.guava.listenablefuture.nuspec"
       ]
     },
-    "todo-list-app/1.0.0": {
+    "todo_list_app/1.0.0": {
       "type": "project",
-      "path": "../todo-list-app/todo-list-app.csproj",
-      "msbuildProject": "../todo-list-app/todo-list-app.csproj"
+      "path": "../todo-list-app/todo_list_app.csproj",
+      "msbuildProject": "../todo-list-app/todo_list_app.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "MonoAndroid,Version=v13.0": [
       "Xamarin.Essentials >= 1.7.0",
       "Xamarin.Forms >= 5.0.0.2196",
-      "todo-list-app >= 1.0.0"
+      "todo_list_app >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -3439,8 +3439,8 @@
       "frameworks": {
         "monoandroid13.0": {
           "projectReferences": {
-            "C:\\Users\\jetz1\\repos\\initial-mobile-app\\todo-list-app\\todo-list-app\\todo-list-app.csproj": {
-              "projectPath": "C:\\Users\\jetz1\\repos\\initial-mobile-app\\todo-list-app\\todo-list-app\\todo-list-app.csproj"
+            "C:\\Users\\jetz1\\repos\\initial-mobile-app\\todo-list-app\\todo-list-app\\todo_list_app.csproj": {
+              "projectPath": "C:\\Users\\jetz1\\repos\\initial-mobile-app\\todo-list-app\\todo-list-app\\todo_list_app.csproj"
             }
           }
         }
@@ -3452,14 +3452,6 @@
           "Xamarin.Essentials": {
             "target": "Package",
             "version": "[1.7.0, )"
-          },
-          "Xamarin.Essentials": {
-            "target": "Package",
-            "version": "[1.7.0, )"
-          },
-          "Xamarin.Forms": {
-            "target": "Package",
-            "version": "[5.0.0.2196, )"
           },
           "Xamarin.Forms": {
             "target": "Package",

@@ -88,9 +88,9 @@
     <AndroidResource Include="Resources\drawable\icon_feed.png" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\todo-list-app\todo-list-app.csproj">
-      <Project>{343B47E7-528A-47EF-82A7-48A2E68C521F}</Project>
-      <Name>todo-list-app</Name>
+    <ProjectReference Include="..\todo-list-app\todo_list_app.csproj">
+      <Project>{0CB314B2-7231-44CC-B7C3-6CA3A3141E7F}</Project>
+      <Name>todo_list_app</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

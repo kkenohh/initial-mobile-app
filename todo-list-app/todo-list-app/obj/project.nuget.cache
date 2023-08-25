@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/dOb5MrndYLVTVGz+MAwDZKSrYpqAPFOy565udM+jRZFpTM+HWBF6R9GmeAsLqvjyy4cyInH8MczFoD/CRSdzA==",
+  "dgSpecHash": "obXVM14a2ociPrO90JXHgEc8RquiXAhpUkO4ngTwuxI2kyoiAWfRa6p9mhxcrKiSG829g1wcXZTJWmlnfRX5Ww==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jetz1\\repos\\initial-mobile-app\\todo-list-app\\todo-list-app\\todo-list-app.csproj",
+  "projectFilePath": "C:\\Users\\jetz1\\repos\\initial-mobile-app\\todo-list-app\\todo-list-app\\todo_list_app.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jetz1\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\jetz1\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

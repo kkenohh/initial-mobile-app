@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid13.0": {
             "projectReferences": {
-              "C:\\Users\\jetz1\\repos\\initial-mobile-app\\todo-list-app\\todo-list-app\\todo-list-app.csproj": {
-                "projectPath": "C:\\Users\\jetz1\\repos\\initial-mobile-app\\todo-list-app\\todo-list-app\\todo-list-app.csproj"
+              "C:\\Users\\jetz1\\repos\\initial-mobile-app\\todo-list-app\\todo-list-app\\todo_list_app.csproj": {
+                "projectPath": "C:\\Users\\jetz1\\repos\\initial-mobile-app\\todo-list-app\\todo-list-app\\todo_list_app.csproj"
               }
             }
           }
@@ -54,12 +54,12 @@
         }
       }
     },
-    "C:\\Users\\jetz1\\repos\\initial-mobile-app\\todo-list-app\\todo-list-app\\todo-list-app.csproj": {
+    "C:\\Users\\jetz1\\repos\\initial-mobile-app\\todo-list-app\\todo-list-app\\todo_list_app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jetz1\\repos\\initial-mobile-app\\todo-list-app\\todo-list-app\\todo-list-app.csproj",
-        "projectName": "todo-list-app",
-        "projectPath": "C:\\Users\\jetz1\\repos\\initial-mobile-app\\todo-list-app\\todo-list-app\\todo-list-app.csproj",
+        "projectUniqueName": "C:\\Users\\jetz1\\repos\\initial-mobile-app\\todo-list-app\\todo-list-app\\todo_list_app.csproj",
+        "projectName": "todo_list_app",
+        "projectPath": "C:\\Users\\jetz1\\repos\\initial-mobile-app\\todo-list-app\\todo-list-app\\todo_list_app.csproj",
         "packagesPath": "C:\\Users\\jetz1\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\jetz1\\repos\\initial-mobile-app\\todo-list-app\\todo-list-app\\obj\\",
         "projectStyle": "PackageReference",

@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("todo-list-app.Views.ItemsPage.xaml", "Views/ItemsPage.xaml", typeof(global::todo_list_app.Views.ItemsPage))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("todo_list_app.Views.ItemsPage.xaml", "Views/ItemsPage.xaml", typeof(global::todo_list_app.Views.ItemsPage))]
 
 namespace todo_list_app.Views {
     
