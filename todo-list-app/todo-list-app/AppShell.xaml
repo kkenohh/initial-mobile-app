@@ -36,6 +36,11 @@
             ContentTemplate="{DataTemplate local:ItemsPage}"
             Icon="house.png" />
         <ShellContent
+            Title="Add (test)"
+            ContentTemplate="{DataTemplate local:AddTodoPage}"
+            Icon="plus.png"
+            Route="AddTodoPage" />
+        <ShellContent
             Title="About"
             ContentTemplate="{DataTemplate local:AboutPage}"
             Icon="icon_about.png"

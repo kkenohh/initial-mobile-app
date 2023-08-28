@@ -8,9 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("todo-list-app.Views.AddTodoPage.xaml", "Views/AddTodoPage.xaml", typeof(global::todo-list-app.Views.AddTodoPage))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("todo_list_app.Views.AddTodoPage.xaml", "Views/AddTodoPage.xaml", typeof(global::todo_list_app.Views.AddTodoPage))]
 
-namespace todo-list-app.Views {
+namespace todo_list_app.Views {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\AddTodoPage.xaml")]

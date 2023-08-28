@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="todo_list_app.Views.AddTodoPage"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label
+                Padding="15"
+                FontSize="Large"
+                HorizontalOptions="CenterAndExpand"
+                Text="Add a TODO!" />
+            <Label
+                Margin="0"
+                Padding="15,0,15,0"
+                HorizontalOptions="StartAndExpand"
+                Text="Description:" />
+            <Editor
+                Margin="15,0,15,15"
+                AutoSize="TextChanges"
+                FontSize="Medium"
+                Text="{Binding Description, Mode=TwoWay}" />
+            <Label
+                Margin="0"
+                Padding="15,0,15,0"
+                HorizontalOptions="StartAndExpand"
+                Text="Priority:" />
+            <StackLayout
+                Padding="15,0,15,0"
+                HorizontalOptions="Start"
+                Orientation="Horizontal"
+                RadioButtonGroup.GroupName="priority"
+                RadioButtonGroup.SelectedValue="{Binding Priority}">
+                <RadioButton Content="High" />
+                <RadioButton Content="Medium" />
+                <RadioButton Content="Low" />
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

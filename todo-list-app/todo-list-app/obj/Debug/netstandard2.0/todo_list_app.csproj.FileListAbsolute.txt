@@ -18,3 +18,4 @@ C:\Users\jetz1\repos\initial-mobile-app\todo-list-app\todo-list-app\bin\Debug\ne
 C:\Users\jetz1\repos\initial-mobile-app\todo-list-app\todo-list-app\bin\Debug\netstandard2.0\ref\todo_list_app.dll
 C:\Users\jetz1\repos\initial-mobile-app\todo-list-app\todo-list-app\bin\Debug\netstandard2.0\todo_list_app.pdb
 C:\Users\jetz1\repos\initial-mobile-app\todo-list-app\todo-list-app\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\jetz1\repos\initial-mobile-app\todo-list-app\todo-list-app\obj\Debug\netstandard2.0\Views\AddTodoPage.xaml.g.cs
